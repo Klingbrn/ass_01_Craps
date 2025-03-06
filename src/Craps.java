@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class Main {
+public class Craps {
     public static void main(String[] args) {
         Random rnd = new Random();
         Scanner in = new Scanner(System.in);
